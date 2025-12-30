@@ -25,4 +25,8 @@ Depending on the notebook, required columns include combinations of:
 
 This code is intended for physics-informed PV power and temperature modeling, long-term performance and degradation analysis and anomaly detection. The objective is not to compete with purely black-box deep learning models on MAE alone, but to demonstrate how physics-informed learning by architecture enables interpretable, robust, and physically consistent AI for energy systems.
 
-If you use this code, please cite: []
+If you use this code, please cite: [TBD]
+
+## Contact
+
+For questions or collaborations, please open an issue or contact srijani.mukherjee@univ-smb.fr
