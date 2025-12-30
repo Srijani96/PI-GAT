@@ -1,6 +1,10 @@
+
 numpy
 pandas
 torch
 torch-geometric
 matplotlib
+seaborn
+scipy
 scikit-learn
+python-dateutil
