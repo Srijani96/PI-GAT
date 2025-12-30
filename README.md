@@ -171,7 +171,7 @@ If you use this code, please cite:
 ```bibtex
 @article{Mukherjee2025PIGNN,
   title   = {Beyond Black Boxes: Physics-Informed Learning by Architecture with Graph Neural Networks for Interpretable PV System Modeling},
-  author  = {Mukherjee, S. and Tsanakas, I. and Colin, H. and Pabiou, H. and Dutykh, D. and Vuillon, L.},
+  author  = {Mukherjee, S. and Bou Nassif, L. and Tsanakas, I. and Colin, H. and Giroux-Julienand, S. Pabiou, H. and Dutykh, D. and Vuillon, L.},
   journal = {Energy and AI (submitted)},
   year    = {2025}
 }
